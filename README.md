@@ -25,3 +25,8 @@ at completing one data science project each month starting with this for October
 * AWS EMR
 * AWS EC2
 * Spark MLlib
+
+***
+
+### Article
+An article covering the procedure and results of this project can be found on [Medium](https://pub.towardsai.net/introduction-to-pyspark-via-aws-emr-and-hands-on-eda-de1866d641f5?gi=baeb31501644)
