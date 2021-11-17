@@ -11,7 +11,7 @@ and deployment (that is cloud operations) and searched a big enough [dataset](ht
 * **Challenge:** Get up and started with Spark and its Python wrapper, PySpark as well as managing clusters on AWS EMR, none of which I had done earlier. This also started my attempt
 at completing one data science project each month starting with this for October.
 
-* **Accomplishment:** Successfully performing EDA and feature engineering on the dataset and using the Spark MLlib to build RF and DT models and achieve an RMSE error around 4. 
+* **Accomplishment:** Successfully performing EDA and feature engineering on the dataset and using the Spark MLlib to build RF and DT models and achieve an RMSE error of 4.28. 
 
 ***
 
